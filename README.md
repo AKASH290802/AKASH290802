@@ -50,9 +50,13 @@ I am a **Software Engineer** with a strong passion for **Generative AI**, **Agen
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AKASH290802&show_icons=true&theme=dark&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AKASH290802&show_icons=true&theme=dark&count_private=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AKASH290802&theme=dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AKASH290802&theme=dark" />
+</p>
 
 ---
 
