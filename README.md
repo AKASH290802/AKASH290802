@@ -45,26 +45,28 @@ I am a **Software Engineer** with a strong passion for **Generative AI**, **Agen
 ## 📫 How to reach me
 
 <p align="left">
-  <a href="https://linkedin.com/in/akash290802" target="blank">
+  <a href="https://linkedin.com/in/akash290802" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:akashgwin2002@gmail.com" target="blank">
+  <a href="mailto:akashgwin2002@gmail.com" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
-**Email:** akashgwin2002@gmail.com
+📧 **Email:** [akashgwin2002@gmail.com](mailto:akashgwin2002@gmail.com)
+
+🔗 **LinkedIn:** [linkedin.com/in/akash290802](https://linkedin.com/in/akash290802)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKASH290802&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AKASH290802&show_icons=true&theme=dark&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH290802&theme=dark" alt="GitHub Streak" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=AKASH290802&theme=dark" />
 </p>
 
 ---
